@@ -4,3 +4,8 @@
 .jumbotron:hover{
   background-color: rgb(174, 212, 218);
 }
+body{
+  min-width: 1219px;
+  width: 100%;
+  margin: 0 auto;
+}
